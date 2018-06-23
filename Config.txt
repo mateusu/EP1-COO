@@ -1,0 +1,6 @@
+300
+4
+fase1.txt
+fase2.txt
+fase3.txt
+faseextra.txt
